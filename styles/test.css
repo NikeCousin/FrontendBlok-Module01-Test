@@ -1,0 +1,30 @@
+h1{
+    color: black;
+    background: pink;
+    width: 800px;
+    border-color: pink;
+    border-style:outset;
+    border-width: 70px;
+}
+p{
+    width: 800px;
+    border-color: pink;
+    border-style: ridge;
+    border-width: 70px;
+    font-size: 20px;
+}
+ul{
+    color: #c89;
+    text-shadow: 1px 1px 1px gray;
+    width: 861px;
+    border-color: white;
+    border-style:outset;
+    border-width: 20px;
+    font-size:  18px;
+}
+ol{
+    color: #c89;
+    text-shadow: 1px 1px 1px gray;
+    width: 861px;
+    font-size: 18px;
+}
