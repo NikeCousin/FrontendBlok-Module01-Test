@@ -1,0 +1,81 @@
+.header {
+    display: flex;
+    border-bottom: 1px solid #000;
+    padding-bottom: 10px;
+    /* Подключение шрифта */
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    /* Настройки текста */
+    font-size: 20px;
+    text-decoration: none;
+}
+
+body
+{
+    /* Подключение шрифта */
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    /* Настройки текста */
+    font-size: 14px;
+    line-height: 1.5;
+}
+footer
+{
+    /* Настройки текста */
+    font-size: 13px;
+}
+.logo {
+    margin-right: 50px;
+    /* Настройки текста */
+    text-decoration: none;
+    color: lightgreen;
+    background-color: rebeccapurple;
+
+}
+h1
+{
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+}
+h2
+{
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+
+}
+h3
+{
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+ul > li {
+    margin-right: 10px;
+}
+a
+{
+    /* Подключение шрифта */
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.box {
+    display: flex;
+    margin-bottom: 30px;
+    gap: 20px;
+    border-bottom: 1px solid #000;
+}
+.aside {
+    border-right: 1px solid #000;
+    padding-right: 20px;
+}
+.post {
+    padding-bottom: 20px;
+}
